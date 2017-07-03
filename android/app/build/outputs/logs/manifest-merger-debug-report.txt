@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:2:5-27
+		INJECTED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.44.0] /Users/joca/.android/build-cache/3528db2490f6779c8bd1eee1283a2cc91a498553/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-sdk
+ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [com.facebook.react:react-native:0.44.0] /Users/joca/.android/build-cache/3528db2490f6779c8bd1eee1283a2cc91a498553/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/joca/.android/build-cache/8b36e0ed494c27e60fae2476852c28138643708e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/joca/.android/build-cache/0f2652fa60b0d7ec7a26f205131bc4f022275fd1/output/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/joca/.android/build-cache/bab531bb1be1e2f307ad7c9d6fae4d24e5714f86/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] /Users/joca/.android/build-cache/97d07339e829b2a8703933fcad89b936949015f2/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.0.1] /Users/joca/.android/build-cache/503dced64ca4e80eb31963ecc275de476a170d3c/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /Users/joca/.android/build-cache/36d5dadc9e218d8095e81ef30a6040784d3029f0/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /Users/joca/.android/build-cache/3a744400408411f398f66787ca9c72c055a3ea4b/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/joca/.android/build-cache/44964a834cce8713fa1828852ae5b143e237a031/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/joca/.android/build-cache/62d828eb06ed036f40501e35edc839d06fcf11aa/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/joca/.android/build-cache/b75d25eef59693fc869a8ca3e9e5b4bdaf62c7bf/output/AndroidManifest.xml:2:3-70
+	android:targetSdkVersion
+		ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:11:9-38
+		INJECTED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:10:9-35
+		INJECTED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:13:5-30:19
+MERGED from [com.facebook.react:react-native:0.44.0] /Users/joca/.android/build-cache/3528db2490f6779c8bd1eee1283a2cc91a498553/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/joca/.android/build-cache/8b36e0ed494c27e60fae2476852c28138643708e/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/joca/.android/build-cache/0f2652fa60b0d7ec7a26f205131bc4f022275fd1/output/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/joca/.android/build-cache/b75d25eef59693fc869a8ca3e9e5b4bdaf62c7bf/output/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/joca/.android/build-cache/c365aa85b05e91affed459622041d048005653fa/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:16:7-39
+	android:allowBackup
+		ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:15:7-33
+	android:icon
+		ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:17:7-41
+	android:theme
+		ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:18:7-38
+	android:name
+		ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:14:7-38
+activity#com.gamez4us.MainActivity
+ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:19:7-28:18
+	android:label
+		ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:21:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:23:9-51
+	android:configChanges
+		ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:22:9-79
+	android:name
+		ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:20:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:26:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:29:7-84
+	android:name
+		ADDED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:29:17-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/joca/BWmobi/ReactNative/GameZ4us/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

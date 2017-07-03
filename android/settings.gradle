@@ -1,0 +1,3 @@
+rootProject.name = 'GameZ4us'
+
+include ':app'

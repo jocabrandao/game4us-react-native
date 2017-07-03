@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e13228fcc447a5158aef7e3de3afe91f5f25072e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.android/build-cache/62d828eb06ed036f40501e35edc839d06fcf11aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/classes_ca3f26ab4cf18b7b2e5fd224aae4cf739053a768.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_f04a680e90b8356d51da920fce93f42f408c0e22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.android/build-cache/97d07339e829b2a8703933fcad89b936949015f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/classes_1dd506b0643fb343f01bb450852e893561c3c652.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.android/build-cache/0f2652fa60b0d7ec7a26f205131bc4f022275fd1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/classes_721d2da5e0880d0fc5d47105e91cc9ff83baf11b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.android/build-cache/8b36e0ed494c27e60fae2476852c28138643708e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/classes_68ff9e772f87e481bd22399251cc7bf8f8b6116e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.android/build-cache/36d5dadc9e218d8095e81ef30a6040784d3029f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/classes_583e4dd781ca1b8e238f6d8677dab9087fb69a2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.android/build-cache/3a744400408411f398f66787ca9c72c055a3ea4b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/classes_8adc6503f465fbcf9f6b10d94d767598958e9a86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_1e3ef70b58090f02ac17ae9178bd6377fe3f0fe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.android/build-cache/b75d25eef59693fc869a8ca3e9e5b4bdaf62c7bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/classes_74ab7aef18f92742c9df24b30eb26f6a23d86ff0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_f024d37a2b75b69e06ebfff8b9b0da140d78c2fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_cd36764d326fd99e4c0dc18086b1ceca4eb18fba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_54cd30cb1996a3e750968f040af3001b4b220045.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.android/build-cache/44964a834cce8713fa1828852ae5b143e237a031/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/classes_eff3137944e78adc8ef8cdbd4ac8543c854efcb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_96ffe936361d2096e8edecdd650decc025e00dac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.android/build-cache/3528db2490f6779c8bd1eee1283a2cc91a498553/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/classes_5630b0e9d9f28c1c6068ef7f1495601ec80a4e30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_50b04dbd100a11a107174e3d25a4dea368f15a43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.android/build-cache/503dced64ca4e80eb31963ecc275de476a170d3c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/classes_69f1dc90e3da2bf2109fcd39348f31c752285779.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.android/build-cache/bab531bb1be1e2f307ad7c9d6fae4d24e5714f86/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/classes_a4299b775a874bd1b5b08da499060a82498b3996.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_95a4cdeec67b46bc106b65e1e84e0d0bdd4a80df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.android/build-cache/0f2652fa60b0d7ec7a26f205131bc4f022275fd1/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_b06435e3ab1f390d3d06d62489d2a886cdd49b35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joca/.android/build-cache/3528db2490f6779c8bd1eee1283a2cc91a498553/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/joca/BWmobi/ReactNative/GameZ4us/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_ae26544b53dbc2f80715f90ae76476bc563e1701.jar" />
+    </item>
+
+</items>
