@@ -24,6 +24,11 @@ Além disso, tem também:
  - Scene
  - axios (axios)
 
+## Screenshots
+![alt tag](screenshots/destaque.png "Tela demonstrando os produtos em destaque.")
+![alt tag](screenshots/pesquisa.png "Tela demonstrando o resultado de uma busca.")
+![alt tag](screenshots/detalhe.png "Tela demonstrando o detalhamento de um produto.")
+
 ## Construído utilizando
 
 * [React Native](https://facebook.github.io/react-native) - React Native.
